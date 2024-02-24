@@ -1,1 +1,1 @@
-# sentiment_analysis_of_amazon_reviews_with_Gradio_Ui
+# sentiment_analysis_of_amazon_reviews_with_Gradio_UI
